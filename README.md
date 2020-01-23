@@ -1,6 +1,6 @@
 # eval5-wx-demo
 
-微信小程序 eval5 示例
+基于[eval5](https://github.com/bplok20010/eval5)实现的微信小程序动态执行 JavaScript 代码示例
 
 ## 示例
 
