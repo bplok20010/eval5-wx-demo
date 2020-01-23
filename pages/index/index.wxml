@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <textarea maxlength="9999999" class="code" placeholder="代码区" bindinput="change" value="{{code}}">
+  </textarea>
+  <button bindtap="run" disabled="{{isRunning}}">{{buttonText}}</button>
+  <view class="result {{idx % 2 ? 'red' : ''}}" wx:if="{{result}}">执行结果: {{result}}</view>
+  <view class="result red" wx:if="{{error}}">Error: {{error}}</view>
+</view>

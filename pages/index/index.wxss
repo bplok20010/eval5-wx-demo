@@ -1,0 +1,22 @@
+/**index.wxss**/
+
+.code {
+  border: 1rpx solid #ccc;
+  padding: 10rpx;
+  height: 70%;
+  font-size: 28rpx;
+  display: block;
+}
+
+button {
+  margin-top: 20rpx;
+  border: none;
+  background: #007ACC;
+  color: #FFF;
+}
+
+.result {margin-top: 20rpx;}
+
+.red {
+  color: red
+}
