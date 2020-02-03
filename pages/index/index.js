@@ -72,7 +72,6 @@ function shuffle(array) {
     try {
       const result = evaluate(this.data.code, {
         app: this,
-        Math,
         setInterval,
         clearInterval,
         console
