@@ -4,4 +4,4 @@
 
 ## 示例
 
-![demo](https://bplok20010.github.io/eval5-wx-demo/demo.gif "demo")
+![demo](https://mmbiz.qpic.cn/mmbiz_gif/rV5dmvKgTedEUo2oPar6nRC21psUNK9NCSA7CHZWuW4TpFYlSx4GiabhibnScic81DLxicnedIzG0uic0uPgoVhIe2w/0?wx_fmt=gif "demo")
